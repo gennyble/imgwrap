@@ -1,7 +1,7 @@
 # imgwrap
 `Usage: [input image] [output path] [wrap  count]`
 
-It wraps long screenshots! Poorly. I wrote it real quicklike 'cause I gave myself an arbitrary time constraint. It took my 28:47.
+It wraps long screenshots! Poorly. I wrote it real quicklike 'cause I gave myself an arbitrary time constraint. It took my 28:47. Mostly here because I wanted to share how I write quick little, bad image things. And gentle self-encouragement to do more things, really. Maybe I'll polish this good little turd. I like it; It's cute.
 
 Relevant posts:
 
